@@ -1,0 +1,8 @@
+:root {
+  --primary: rgb(21, 24, 25);
+  --primary-text: rgb(249, 251, 251);
+  --secondary: rgb(249, 251, 251);
+  --secondary-text: rgb(21, 24, 25);
+  --accent: rgb(78, 113, 115);
+  --accent-text: rgb(21, 24, 25);
+}
